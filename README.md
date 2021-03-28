@@ -1,10 +1,9 @@
 # Data Healer
-- Working
-    - remotely at:
-      - [Nugget.ai Corp.](https://nugget.ai) as Python ML Engineer
-      - [Trace LLC](https://tracevt.com) as Javascript DevOps Engineer
-    - casually at:
-      - [Inzint Private Limited](https://inzint.com) in various roles
+- Working remotely at:
+  - [Nugget.ai Corp.](https://nugget.ai) as Python ML Engineer
+  - [Trace LLC](https://tracevt.com) as Javascript DevOps Engineer
+- Working casually at:
+  - [Inzint Private Limited](https://inzint.com) in various roles
 - Interested in
   - Automation
   - Data Healing
