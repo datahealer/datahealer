@@ -9,6 +9,6 @@
   - Data Healing
   - Data Engineering
   - Data Science & Analytics
-- I’m currently learning [Apache Kafka](https://kafka.apache.org)
+- I’m currently learning Statistics
 - [100% Job Success & Top Rated Plus Freelancer On Upwork](https://www.upwork.com/fl/vikaskumarthakur)
 - [Facebook](https://www.facebook.com/inzint) | [Twitter](https://twitter.com/inzint) | [Linkedin](https://www.linkedin.com/company/inzint) | [Upwork](http://upwork.com/ag/inzint)
