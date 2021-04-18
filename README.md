@@ -1,4 +1,4 @@
-# Data Healer | datahealer.io
+# Data Healer | [datahealer.io](https://datahealer.io)
 - Working remotely at:
   - [Nugget.ai Corp.](https://nugget.ai) as Data Engineer
   - [Trace LLC](https://tracevt.com) as Javascript DevOps Engineer
