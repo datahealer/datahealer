@@ -65,21 +65,7 @@ h4 {
     font-size: 30px;
 }
 
-/* Buttons */ 
-.btn {
-    min-width: 145px;
-    line-height: 50px;
-    padding: 0 30px;
-    font-size: 16px;
-    font-weight: 600;
-    text-transform: uppercase;
-    border-radius: 0;
-    transition: box-shadow 0.25s ease-in-out;
-    -moz-transition: box-shadow 0.25s ease-in-out;
-    -webkit-transition: box-shadow 0.25s ease-in-out;
-    -o-transition: box-shadow 0.25s ease-in-out;
-    -ms-transition: box-shadow 0.25s ease-in-out;
-}
+
 
 .btn-fill {
     color: #fff;
