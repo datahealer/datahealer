@@ -1,12 +1,12 @@
 # [DataHealer](https://datahealer.com)
 - Working remotely at:
   - [Nugget.ai Corp.](https://nugget.ai) as Data Engineer
-  - [Trace LLC](https://tracevt.com) as Javascript DevOps Engineer
+  - [Trace LLC](https://tracevt.com) as Javascript & DevOps Engineer
 - Working casually at:
   - [Inzint Private Limited](https://inzint.com) in various roles
 - Interested in
   - Automation
-  - [Data Healing](https://datahealer.io)
+  - [Data Healing](https://datahealer.com)
   - Data Engineering
   - Data Science & Analytics
 - I’m currently learning Statistics
