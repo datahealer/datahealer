@@ -11,6 +11,6 @@
   - Data Science & Analytics
 - I’m currently learning Statistics
 - [100% Job Success & Top Rated Plus Freelancer On Upwork](https://www.upwork.com/fl/vikaskumarthakur)
-- [Facebook](https://www.facebook.com/inzint) | [Twitter](https://twitter.com/inzint) | [Linkedin](https://www.linkedin.com/company/inzint) | [Upwork](http://upwork.com/ag/inzint)
+- [Facebook](https://www.facebook.com/inzint) | [Insta](https://www.instagram.com/datahealer.io) | [Twitter](https://twitter.com/inzint) | [Linkedin](https://www.linkedin.com/company/inzint) | [Upwork](http://upwork.com/ag/inzint)
 - [DataHealer.com](https://datahealer.com)
 - [vikasThakur.com](https://vikasthakur.com)
