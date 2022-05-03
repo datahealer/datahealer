@@ -1,6 +1,4 @@
 # [DataHealer](https://datahealer.com)
-- Working remotely at:
-  - [Trace LLC](https://tracevt.com) as Javascript & DevOps Engineer
 - Working casually at:
   - [Inzint Private Limited](https://inzint.com) in various roles
 - Interested in
