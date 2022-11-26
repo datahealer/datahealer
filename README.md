@@ -1,13 +1,2 @@
-# [DataHealer](https://datahealer.com)
-- Working casually at:
-  - [Inzint Private Limited](https://inzint.com) in various roles
-- Interested in
-  - Automation
-  - [Data Healing](https://datahealer.com)
-  - Data Engineering
-  - Data Science & Analytics
-- I’m currently learning Statistics
-- [100% Job Success & Top Rated Plus Freelancer On Upwork](https://www.upwork.com/fl/vikaskumarthakur)
-- [Facebook](https://www.facebook.com/inzint) | [Insta](https://www.instagram.com/datahealer.io) | [Twitter](https://twitter.com/inzint) | [Linkedin](https://www.linkedin.com/company/inzint) | [Upwork](http://upwork.com/ag/inzint)
-- [DataHealer.com](https://datahealer.com)
-- [vikasThakur.com](https://vikasthakur.com)
+We are a team of selected software developers, based in [Noida, India](https://goo.gl/maps/1b9Gb1aR89xmfusD9) working hard to make [Inzint Private Limited](https://inzint.com) #1 in market.
+
